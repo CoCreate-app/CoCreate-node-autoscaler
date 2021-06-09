@@ -1,4 +1,4 @@
-name: CI/CD
+name: Automated Deployment
 
 on:
   push:
@@ -75,4 +75,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB }}
         run: |
-          ./kubectl apply -f manifests/haproxy-ingress-manifests.yaml
+          ./kubectl apply -f nodeautoscaler/deploy/node-auto-scaler-manifests.yaml
