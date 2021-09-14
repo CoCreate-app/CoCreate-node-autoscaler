@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.3...v1.0.4) (2021-09-14)
+
+
+### Bug Fixes
+
+* relocate build.sh ([e8106d3](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/e8106d324b14af57eeff90281c32ea8c0d43010c))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.2...v1.0.3) (2021-09-14)
 
 
