@@ -54,7 +54,7 @@ jobs:
     needs: release
     if: needs.release.outputs.new_release_published == 'true'
     env:
-      IMAGE: docker.pkg.github.com/cocreate-app/CoCreate-node-autoscaler/node-autoscaler
+      IMAGE: docker.pkg.github.com/cocreate-app/cocreate-node-autoscaler/node-autoscaler
       VERSION: ${{ needs.release.outputs.new_release_version }}
     steps:
       - name: Checkout repository
