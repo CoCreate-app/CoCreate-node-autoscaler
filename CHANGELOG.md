@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.5...v1.0.6) (2021-09-14)
+
+
+### Bug Fixes
+
+* upadate path to image ([6af48a8](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/6af48a82acbf501264af938fbde80767014b308c))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.4...v1.0.5) (2021-09-14)
 
 
