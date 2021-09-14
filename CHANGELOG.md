@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.4...v1.0.5) (2021-09-14)
+
+
+### Bug Fixes
+
+* chmod +x build.sh ([671a546](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/671a54660eb13ba1df244aca659199265a2baa9b))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.3...v1.0.4) (2021-09-14)
 
 
