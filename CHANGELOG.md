@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.0...v1.0.1) (2021-09-14)
+
+
+### Bug Fixes
+
+* package build ([7df4088](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/7df408887c8d501874fdf76ab6b053fad30d8d67))
+
 # 1.0.0 (2021-09-14)
 
 
