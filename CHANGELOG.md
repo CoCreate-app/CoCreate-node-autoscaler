@@ -1,1 +1,14 @@
+# 1.0.0 (2021-09-14)
 
+
+### Bug Fixes
+
+* build github package if release true ([e181783](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/e18178329f869f33812c914bd5fdcedb952ead52))
+* release ([65fe88f](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/65fe88f9d248a1905d566e2cbe4e2bea19396e1b))
+* removed data- from crud, fetch, filter and pass attributes ([7952497](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/7952497cdca7756f02758384b593a583b60ba0bf))
+
+
+### Features
+
+* build image using github packages ([dbfc582](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/dbfc582f2034ed8ed9ce736cd7c05264d343135b))
+* initial release ([8cfd5c4](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/8cfd5c4437a028eb0a9983e695505db314f890e3))
