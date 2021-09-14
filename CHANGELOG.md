@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.8...v1.0.9) (2021-09-14)
+
+
+### Bug Fixes
+
+* upadate path to image back to jiuchen ([c3b8520](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/c3b8520ec06a0799efd6bb519fffadc83f456d5e))
+
 ## [1.0.8](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.7...v1.0.8) (2021-09-14)
 
 
