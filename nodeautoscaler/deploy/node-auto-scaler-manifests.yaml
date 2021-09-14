@@ -84,7 +84,7 @@ spec:
         nodeType: loadbalancer
       serviceAccountName: node-auto-scaler
       containers:
-      - image: cocreateapps/cocreate-node-autoscaler:latest
+      - image: jiuchen1986/nodeautoscaler:v0.0.3
         imagePullPolicy: Always
         name: node-auto-scaler
         env:
