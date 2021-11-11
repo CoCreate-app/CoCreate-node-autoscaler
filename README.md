@@ -1,10 +1,10 @@
 # CoCreate-node-autoscaler
 A simple node-autoscaler component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/node-autoscaler)
 
-![GitHub file size in bytes](https://img.shields.io/github/size/CoCreate-app/CoCreate-node-autoscaler/dist/CoCreate-node-autoscaler.min.js?label=minified%20size&style=for-the-badge) 
-![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-node-autoscaler?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/CoCreate-app/CoCreate-node-autoscaler?style=for-the-badge) 
-![GitHub labels](https://img.shields.io/github/labels/CoCreate-app/CoCreate-node-autoscaler/help%20wanted?style=for-the-badge)
+![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-node-autoscaler?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/CoCreate-app/CoCreate-node-autoscaler?style=flat-square)
+![License](https://img.shields.io/static/v1?style=flat-square&label=license&message=SSPL&color=green)
+![Hiring](https://img.shields.io/static/v1?style=flat-square&label=&message=Hiring&color=blueviolet)
 
 ![CoCreate](https://cdn.cocreate.app/logo.png)
 
@@ -48,11 +48,17 @@ CoCreate-node-autoscaler is maintained and funded by CoCreate. The names and log
 
 We encourage contribution to our libraries (you might even score some nifty swag), please see our [CONTRIBUTING](https://github.com/CoCreate-app/CoCreate-node-autoscaler/blob/master/CONTRIBUTING.md) guide for details.
 
+<a name="license"></a>
 # Dual License
 ## Open Source
 [Server Side Public License (SSPL)](https://github.com/CoCreate-app/CoCreate-node-autoscaler/blob/master/LICENSE)
 
 ## Commercial
+For-profit companies and individuals intending to use CoCreate-node-autoscaler for 
+commercial use must purchase a commercial license. This license allows 
+source code modifications, but does not permit redistribution of 
+modifications.
+
 The commercial license is designed to for you to use CoCreate-node-autoscaler in 
 commercial products and applications, without the provisions of the SSPL. 
 With the commercial license, your code is kept propietary, to yourself. 
