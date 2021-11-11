@@ -1,3 +1,11 @@
+## [1.0.12](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.11...v1.0.12) (2021-11-11)
+
+
+### Bug Fixes
+
+* licensing information ([3a25e4e](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/3a25e4eaa6e0714ec36bd85a770f3c4e7a61c4e9))
+* update readme ([f723192](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/f7231929b081690a90f1ecabc1a6bce7ef70cad6))
+
 ## [1.0.11](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.10...v1.0.11) (2021-11-11)
 
 
