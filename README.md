@@ -48,7 +48,14 @@ CoCreate-node-autoscaler is maintained and funded by CoCreate. The names and log
 
 We encourage contribution to our libraries (you might even score some nifty swag), please see our [CONTRIBUTING](https://github.com/CoCreate-app/CoCreate-node-autoscaler/blob/master/CONTRIBUTING.md) guide for details.
 
-# License
-[The MIT License (MIT)](https://github.com/CoCreate-app/CoCreate-node-autoscaler/blob/master/LICENSE)
+# Dual License
+## Open Source
+[Server Side Public License (SSPL)](https://github.com/CoCreate-app/CoCreate-node-autoscaler/blob/master/LICENSE)
 
+## Commercial
+The commercial license is designed to for you to use CoCreate-node-autoscaler in 
+commercial products and applications, without the provisions of the SSPL. 
+With the commercial license, your code is kept propietary, to yourself. 
+If you want to use CoCreate-node-autoscaler to develop commercial sites, themes, 
+projects, and applications, the commercial license is the appropriate license.
 
