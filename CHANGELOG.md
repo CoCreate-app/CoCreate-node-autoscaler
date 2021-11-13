@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.13...v1.0.14) (2021-11-13)
+
+
+### Bug Fixes
+
+* add missing files ([30316d7](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/30316d785892756f9d1072b18ca06f8a1193bd26))
+
 ## [1.0.13](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.12...v1.0.13) (2021-11-12)
 
 
