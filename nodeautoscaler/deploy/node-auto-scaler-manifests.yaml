@@ -80,11 +80,11 @@ spec:
       labels:
         app: node-auto-scaler
     spec:
+      imagePullSecrets:
+        - name: github
       nodeSelector:
         nodeType: loadbalancer
       serviceAccountName: node-auto-scaler
-      imagePullSecrets:
-        - name: github
       containers:
       - image: ghcr.io/cocreate-app/cocreate-node-autoscaler/node-autoscaler
         imagePullPolicy: Always
