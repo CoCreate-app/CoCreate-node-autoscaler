@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.0...v1.1.1) (2021-11-15)
+
+
+### Bug Fixes
+
+* use nodeautoscaler binary ([eedf5c5](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/eedf5c5b4b4ad33bcfe42931513817ea69bad2de))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.14...v1.1.0) (2021-11-15)
 
 
