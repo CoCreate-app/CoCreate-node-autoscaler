@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.14...v1.1.0) (2021-11-15)
+
+
+### Features
+
+* use github secret to pull images ([a819555](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/a819555a18b21a8e47f3d5bf5aa532796107df27))
+
 ## [1.0.14](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.0.13...v1.0.14) (2021-11-13)
 
 
