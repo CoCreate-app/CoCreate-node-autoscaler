@@ -88,13 +88,13 @@ jobs:
           echo
           echo "********** Deploy configmap in dry-run mode ************"
           echo
-          kubectl replace -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/auto-scale-groups-configmap.yaml \
+          kubectl apply -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/auto-scale-groups-configmap.yaml \
             --dry-run=client -o yaml
         else
           echo
           echo "********** Deploy configmap ************"
           echo
-          kubectl replace -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/auto-scale-groups-configmap.yaml -o yaml
+          kubectl apply -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/auto-scale-groups-configmap.yaml -o yaml
         fi
     - name: Deploy rancher secret
       env:
@@ -118,13 +118,13 @@ jobs:
           echo
           echo "********** Deploy secret in dry-run mode ************"
           echo
-          kubectl replace -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/rancher-secret.yaml \
+          kubectl apply -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/rancher-secret.yaml \
             --dry-run=client
         else
           echo
           echo "********** Deploy secret ************"
           echo
-          kubectl replace -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/rancher-secret.yaml
+          kubectl apply -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/rancher-secret.yaml
         fi
     - name: Deploy node auto scaler
       run: |
@@ -133,7 +133,7 @@ jobs:
           echo
           echo "********** Deploy node auto scaler in dry-run mode ************"
           echo
-          kubectl replace -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/node-auto-scaler-manifests.yaml \
+          kubectl apply -f ${GITHUB_WORKSPACE}/nodeautoscaler/deploy/node-auto-scaler-manifests.yaml \
             --dry-run=client -o yaml
         else
           echo
