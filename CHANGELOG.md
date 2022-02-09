@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.1...v1.1.2) (2022-02-09)
+
+
+### Bug Fixes
+
+* update CoCreate.config.js, bump @cocreate/docs version ([108b786](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/108b786423df3c761bd3f18a7b93eeba655040ba))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.0...v1.1.1) (2021-11-15)
 
 
