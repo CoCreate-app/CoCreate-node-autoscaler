@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.4...v1.1.5) (2022-02-28)
+
+
+### Bug Fixes
+
+* config docs wildcard * domain ([e4ea7c4](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/e4ea7c4fd3a7d60e3250d5a1c22d3a125fcc9d11))
+
 ## [1.1.4](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.3...v1.1.4) (2022-02-16)
 
 
