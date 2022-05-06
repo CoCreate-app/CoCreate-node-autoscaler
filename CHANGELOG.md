@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.5...v1.1.6) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([4c6d69a](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/4c6d69ab09d445a1e862c3bb0763a2eb94d785ce))
+
 ## [1.1.5](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.4...v1.1.5) (2022-02-28)
 
 
