@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.6...v1.2.0) (2022-05-14)
+
+
+### Features
+
+* function readDocumentList has been renamed to readDocuments ([cef1af6](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/cef1af6d392dc534d25a904799decd1795bf416a))
+
 ## [1.1.6](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.5...v1.1.6) (2022-05-06)
 
 
