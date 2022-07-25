@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.0...v1.2.1) (2022-07-25)
+
+
+### Bug Fixes
+
+* replaced attribute pass-fetch_value with pass-filter-value ([d6e07a8](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/d6e07a8b8aa6d44100c5f35959e9f2012b2dfbb5))
+
 # [1.2.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.1.6...v1.2.0) (2022-05-14)
 
 
