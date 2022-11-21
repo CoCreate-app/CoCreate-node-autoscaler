@@ -1,3 +1,10 @@
+## [1.2.8](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.7...v1.2.8) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([62fbf6a](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/62fbf6a8ef54a2a520a5c920df4ae5559f55ac4b))
+
 ## [1.2.7](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.6...v1.2.7) (2022-11-21)
 
 
