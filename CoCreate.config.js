@@ -10,7 +10,7 @@ module.exports = {
             "collection": "files",
             "document_id": "6204253880b409001727b741",
             "key": "src",
-            "data": {
+            "document": {
                 "name": "index.html",
                 "path": "/docs/node-autoscaler/index.html",
                 "domains": [
