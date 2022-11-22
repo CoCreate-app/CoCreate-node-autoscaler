@@ -1,3 +1,11 @@
+## [1.2.10](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.9...v1.2.10) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([34cc730](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/34cc730783e570782fa76ad81e1ddb9826fe6e08))
+* workflow docs ([72744a9](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/72744a9f9110fd3ee84810174e3634592aad9702))
+
 ## [1.2.9](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.8...v1.2.9) (2022-11-21)
 
 
