@@ -1,3 +1,10 @@
+## [1.2.14](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.13...v1.2.14) (2022-11-26)
+
+
+### Bug Fixes
+
+* bump dependencies ([b3ef33e](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/b3ef33e04e408d40caab6a6001eda99bb739b551))
+
 ## [1.2.13](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.12...v1.2.13) (2022-11-25)
 
 
