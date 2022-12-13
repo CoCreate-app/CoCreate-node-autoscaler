@@ -1,3 +1,10 @@
+## [1.2.26](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.25...v1.2.26) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([9d8601a](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/9d8601a7b0275f2253873a476defd92f478f8efd))
+
 ## [1.2.25](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.24...v1.2.25) (2022-12-13)
 
 
