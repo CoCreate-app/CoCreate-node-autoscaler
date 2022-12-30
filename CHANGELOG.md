@@ -1,3 +1,10 @@
+## [1.2.35](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.34...v1.2.35) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([4d485dd](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/4d485dd1bcc495a95bc670f86761cc90fe9c286d))
+
 ## [1.2.34](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.33...v1.2.34) (2022-12-29)
 
 
