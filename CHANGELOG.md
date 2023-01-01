@@ -1,3 +1,10 @@
+## [1.2.37](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.36...v1.2.37) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([2f19738](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/2f1973896f387e3bf66e67a8c65045ebf0f2014b))
+
 ## [1.2.36](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.35...v1.2.36) (2022-12-31)
 
 
