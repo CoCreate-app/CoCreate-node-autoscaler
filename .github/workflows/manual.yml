@@ -67,7 +67,7 @@ jobs:
         kubectl config view
     # Checkout local repo
     - name: Checkout local repo
-      uses: actions/checkout@v2.3.4
+      uses: actions/checkout@v3.3.4
     # Replace ConfigMap of auto scale groups with input value
     - name: Generate configmap with auto scale groups
       env:
