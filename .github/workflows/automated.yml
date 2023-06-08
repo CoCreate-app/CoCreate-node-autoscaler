@@ -25,16 +25,19 @@ jobs:
     docs:
         runs-on: ubuntu-latest
         steps:
-            env:
-              organization_id: ${{ secrets.COCREATE_ORGANIZATION_ID }}
-              key: ${{ secrets.COCREATE_KEY }}
-              host: ${{ secrets.COCREATE_HOST }}
             - name: Checkout
               uses: actions/checkout@v3
-
+            - name: setup nodejs
+              uses: actions/setup-node@v3
+              with:
+                  node-version: 16
             - name: update documentation
               uses: CoCreate-app/CoCreate-docs@master
-
+              env:
+                organization_id: ${{ secrets.COCREATE_ORGANIZATION_ID }}
+                key: ${{ secrets.COCREATE_KEY }}
+                host: ${{ secrets.COCREATE_HOST }}
+                
     release:
         runs-on: ubuntu-latest
         steps:
