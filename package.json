@@ -26,7 +26,7 @@
   "scripts": {
     "start": "npx webpack --config webpack.config.js --watch",
     "build": "NODE_ENV=production npx webpack --config webpack.config.js",
-    "postinstall": "node ./node_modules/@cocreate/cli/check-coc.js"
+    "postinstall": "node $PWD/node_modules/@cocreate/cli/check-coc.js"
   },
   "repository": {
     "type": "git",
