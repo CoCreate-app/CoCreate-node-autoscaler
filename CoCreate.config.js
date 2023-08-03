@@ -4,8 +4,8 @@ module.exports = {
     "host": "",
     "sources": [
         {
-            "collection": "files",
-            "document": {
+            "array": "files",
+            "object": {
                 "_id": "6204253880b409001727b741",
                 "name": "index.html",
                 "path": "/docs/node-autoscaler/index.html",
