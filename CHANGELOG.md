@@ -1,3 +1,53 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.38...v1.3.0) (2023-08-21)
+
+
+### Bug Fixes
+
+* [@v3](https://github.com/v3) ([cd0c931](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/cd0c931a1b30ea7e49275c204589f0cffca77bef))
+* @cocreate/cli moved to dependencies ([7a6b5d4](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/7a6b5d485b13cdeb34538db6403e0136f7a6bf80))
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([eb39cba](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/eb39cbad63a79951e671602453a3ebed9eab2c90))
+* apikey renamed to key ([af7b654](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/af7b65486bcabdbabceed4e82eb6c988fa3e1e16))
+* bump dependencies ([515d5e0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/515d5e03dea28f113503652e8ae5f3762377e3b2))
+* bump dependencies ([14981cc](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/14981cc4e98733222ba726fb72dbf2bf18e87d51))
+* bump dependencies ([a331197](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/a331197ed15680547630b5ffc28e86d5e983f11d))
+* bump dependencies ([72add0f](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/72add0fe76402d96cede2264b094c1a03fa0a128))
+* bump dependencies ([cfce611](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/cfce611145898e792cc0ed3922648783e71802c0))
+* bump dependencies ([5de5543](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/5de5543566dd2c422a0dd7c7e746e07285a257fb))
+* bump dependencies ([de0edf5](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/de0edf5cee90d3362887249d7b8bb741d31ef76b))
+* bump dependencies, worklow [@v3](https://github.com/v3) ([2e91f51](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/2e91f51fac2da0d0399c1219b8b8c850dcf5ac4d))
+* bump dependnecies ([a73deec](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/a73deec5aa0ffb32984d7f0d7d320abfff4fe74c))
+* crud attributes renamed ([e7d79e0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/e7d79e062f11fc93e7cda5a48584af19621fc04a))
+* html formating ([7ecfa41](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/7ecfa41a579b6c9a4135a075d7b59efff54a7bb7))
+* postintall error ([1a98699](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/1a986996d853ae86c2c7e33879aa5a72617e14bc))
+* Refactor CoCreate.config.js to remove hard-coded credentials ([95f0bd8](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/95f0bd80b563b8caaeac8ad5a8449e4c6ca42585))
+* Refactored *-target to *-selector ([3c7213f](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/3c7213f35b4b0ac507d18ffcbadca5b43b3493eb))
+* removed uglify.js from dev dependencies ([bfb4e9a](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/bfb4e9a8d2b4c3d5d121e45593a10bc3a528eeb0))
+* renamed domans to hosts ([8152570](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/8152570fd4fe5742a30f53e023818e414a1eaf93))
+* renamed hosts to host. the value can be a string or an array of strings ([bafac25](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/bafac25b0f034f776d213afabe912afe2669b065))
+* replace cdn with /dist ([131a52e](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/131a52eb66b229d13e7af68d161d031d51047653))
+* replace key ([8cfbe5f](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/8cfbe5f1f8eeddc2e9e1434bdcffd70ad8085690))
+* testing workflow ([6889113](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/688911339e02b45cce59b1daa3e6762a78cc247b))
+* testing workflow ([7bcba7f](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/7bcba7fb6add06ab49f05a2f43a906ef4d6c66e1))
+* testing workflow ([5574732](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/5574732eaf754796b706a39f3c80337759c175ce))
+* testing workflow ([8c41eef](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/8c41eefe2e4028bffe678e93e6f921fc70ca5226))
+* testing workflow ([77ad8ee](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/77ad8ee01eaac8eb77492e86ba85a96c7c6daa4e))
+* Update dependencies versions ([9e16ed1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/9e16ed14bc552c4efc3e8281172bdd16684937e7))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([873381f](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/873381fbb0f388feb100dcf559659349ba112de2))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([9e9ad38](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/9e9ad38d7cbd4de391fa1c3ed621abd7e4125b27))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([711f535](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/711f5352ec21bc4f91c4b58e2d0d745059130979))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([f314c9e](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/f314c9ebddba843d16cc9316747ff5d06967facc))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([fc78d7c](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/fc78d7c5a798f8c8d62613e7d0de792501d07ccf))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([bf53c65](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/bf53c65484289e00c492704619d6110c0b01fe96))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([7bb2adc](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/7bb2adc0347d155ed4b8691210de3abd760e0e18))
+* update file uploader ([ddde069](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/ddde069a08cdef2c3fb265350eaf72614815dc4e))
+* updated dependencies to their latest versions ([ec77970](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/ec779707b3c440367b27207bea96620890664679))
+* workflow ([4fa6e66](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/4fa6e66724962f0d97a2a1429b61d3a782b60ac1))
+
+
+### Features
+
+* name attribute and variable renamed to key ([aa3208e](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/aa3208e4545f0eca10786c90b4bf8c585fd8714d))
+
 ## [1.2.38](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.2.37...v1.2.38) (2023-01-05)
 
 
