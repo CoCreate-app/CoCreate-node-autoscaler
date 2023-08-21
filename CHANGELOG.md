@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.4.1...v1.4.2) (2023-08-21)
+
+
+### Bug Fixes
+
+* removed build as no webpack.config exist ([d3c9346](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/d3c93461385c4f3d424f2663fd24b5031716c043))
+
 ## [1.4.1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.4.0...v1.4.1) (2023-08-21)
 
 
