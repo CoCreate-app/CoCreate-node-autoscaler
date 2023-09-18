@@ -1,3 +1,11 @@
+## [1.4.3](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.4.2...v1.4.3) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([b5a40c7](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/b5a40c7faa5ed5e2978c84b9874e5aca50e2e534))
+* Update dCoCreate dpendencies to latest versions ([42abf7d](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/42abf7d4e1e923c2247bdb7023ba63ebfa62cd17))
+
 ## [1.4.2](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.4.1...v1.4.2) (2023-08-21)
 
 
