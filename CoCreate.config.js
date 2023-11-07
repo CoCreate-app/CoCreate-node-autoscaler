@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/node-autoscaler/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "node-autoscaler",
                 "content-type": "text/html",
