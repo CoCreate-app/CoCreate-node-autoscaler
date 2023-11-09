@@ -1,3 +1,11 @@
+## [1.4.4](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.4.3...v1.4.4) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([a561974](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/a561974b653d53f008863ea349b119c335bf1c77))
+* update host ([7b48388](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/7b483888c5b9414a5d64793971fefc1dc4f34f4a))
+
 ## [1.4.3](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.4.2...v1.4.3) (2023-09-18)
 
 
