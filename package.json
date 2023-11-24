@@ -33,7 +33,7 @@
     "url": "git+https://github.com/CoCreate-app/CoCreate-node-autoscaler.git"
   },
   "author": "CoCreate LLC",
-  "license": "SSPL-1.0",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/CoCreate-app/CoCreate-node-autoscaler/issues"
   },
