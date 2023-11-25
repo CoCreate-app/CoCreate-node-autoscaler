@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.6.0...v1.6.1) (2023-11-25)
+
+
+### Bug Fixes
+
+* update licensing details ([1dead42](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/1dead423fa16b440b582e2d36a6fda6c358e1979))
+
 # [1.6.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.5.0...v1.6.0) (2023-11-25)
 
 
