@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.5.0...v1.6.0) (2023-11-25)
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([7ea101a](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/7ea101a13b16f5b4a17b4a9135cb9f47148dd8d0))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.4.5...v1.5.0) (2023-11-19)
 
 
