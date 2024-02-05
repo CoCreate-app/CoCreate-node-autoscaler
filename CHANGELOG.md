@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.7.0...v1.7.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([5b847dc](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/5b847dc49a2c36606463fdb7d58bafd3ded5c8d2))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.6.1...v1.7.0) (2024-01-08)
 
 
