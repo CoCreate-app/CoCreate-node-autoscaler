@@ -1,3 +1,15 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.7.3...v1.8.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* prettier.config options ([510c4ce](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/510c4ce53e82a6c9cf0b77e44ce3fef9566854b3))
+
+
+### Features
+
+* add prettier.config.js and format files ([08ba6fd](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/08ba6fdbe44d4adf92990a0e5d1e9af97e36f864))
+
 ## [1.7.3](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.7.2...v1.7.3) (2024-06-23)
 
 
