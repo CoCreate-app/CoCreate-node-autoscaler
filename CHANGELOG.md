@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.8.0...v1.8.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* webpack.config and devdependencies ([c8c3cef](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/c8c3ceff7b898335aabbf9de1eba7f3cb533f773))
+
 # [1.8.0](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.7.3...v1.8.0) (2024-11-04)
 
 
