@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.8.1...v1.8.2) (2025-05-01)
+
+
+### Bug Fixes
+
+* update [@cocreate](https://github.com/cocreate) dependencies ([9750669](https://github.com/CoCreate-app/CoCreate-node-autoscaler/commit/9750669a4ab8f488f16bfc5667ea0d3bc46b4bfb))
+
 ## [1.8.1](https://github.com/CoCreate-app/CoCreate-node-autoscaler/compare/v1.8.0...v1.8.1) (2025-04-30)
 
 
